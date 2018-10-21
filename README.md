@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello every one!
+I am Huiyun Du. 
+Best wishes
